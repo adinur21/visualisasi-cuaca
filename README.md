@@ -3,7 +3,7 @@ Visualisasi data cuaca menggunakan librari matplotlib pada python
 
 Author : Adi Nurrachman
 
-Universitas Islam Negeri Maulana Malik Ibrahim Malang
+Magister Teknik Informatika - Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
 Dosen : Gunawan Budiprasetyo, ST, MMT, Ph.D
 
